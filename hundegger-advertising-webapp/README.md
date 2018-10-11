@@ -27,7 +27,7 @@ This projects includes a Dockerfile that creates an image with:
 
 ### Is this image already available on DockerHub?
 
-Yes, it is available as mijaec94/hundegger-advertising-webapp!
+Yes, it is available as [mijaec94/hundegger-advertising-webapp](https://hub.docker.com/r/mijaec94/hundegger-advertising-webapp/)!
 
 
 ### What else is there to know about?
